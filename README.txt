@@ -1,8 +1,5 @@
-harelka
-
-Harel Kahani 311597777
-
-Exercise 1 – String Pattern Matching Algorithm
+Harel Kahani
+String Pattern Matching Algorithm
 
 Program files:
 slist.c - file that implementaion a Linked list and it's Actions.
