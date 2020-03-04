@@ -1,15 +1,15 @@
-Exercise 3                           ==========================================================
+==========================================================
 CREATED BY : Harel Kahani .
 
 Program description:
-In "Exercise 3" we have three different programs: ex3a,ex3b,ex3c
+we have three different programs: ex3a,ex3b,ex3c
 
-ex3a –this program will give you an ordring list from highest value of item to lowest using greedy algorithem list. enter items by their
+ex3a â€“this program will give you an ordring list from highest value of item to lowest using greedy algorithem list. enter items by their
 values and weights (the program connect each item as a node in linked list). The value's needs to be entered as 'a'-'j'
 chars than it will convert into the right number when 'a'=0 ---> 'j'=9.
 When finishing insert items press -1 (when insert weight appers),than enter the knapsack size to get the list of item sorted from the biggest value to the lowest with a fraction of how much from the lowest item entered to the sack. 
 
-ex3b – this program will give you the highest value from a items list. enter items by their
+ex3b â€“ this program will give you the highest value from a items list. enter items by their
 values and weights (the program connect each item as a node in linked list). The value's needs to be entered as 'a'-'j'
 chars than it will convert into the right number when 'a'=0 ---> 'j'=9.
 When finishing insert items press -1 (when insert weight appers),than enter the knapsack size to get the matrix printing and the max value entered to the sack from your list.
@@ -38,9 +38,9 @@ dynamic- take tha all item or non depends on a reqartion equasion transelate int
 merge+mergesort.
 
 Program files: 
-ex3a.c – source code of ex3a
-ex3b.c – source code of ex3b
-ex3c.c – source code of ex3c
+ex3a.c â€“ source code of ex3a
+ex3b.c â€“ source code of ex3b
+ex3c.c â€“ source code of ex3c
 
 Compile and running: 
 In Visual Studio IDE
@@ -48,12 +48,12 @@ To compile: Ctrl + shift + b
 To run: Ctrl + f5 
 
 Input: 
-ex3a – weight, value (as chars 'a' to 'j'), -1 when asking for weight to finish,knapsack 
-ex3b – weight, value (as chars 'a' to 'j'), -1 when asking for weight to finish,knapsack
+ex3a â€“ weight, value (as chars 'a' to 'j'), -1 when asking for weight to finish,knapsack 
+ex3b â€“ weight, value (as chars 'a' to 'j'), -1 when asking for weight to finish,knapsack
 ex3c - chars sequence, number of jumps. 
 
 Output:
-ex3a – list of items sorted from the biggest value to the lowest with a fraction of how much from the lowest item value entered to the sack. 
+ex3a â€“ list of items sorted from the biggest value to the lowest with a fraction of how much from the lowest item value entered to the sack. 
 
 ex3b - matrix with the max value at each weight (0-> the entered size),the max value in the sack.
 
